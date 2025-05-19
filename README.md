@@ -1,4 +1,11 @@
-# qb-inventory
+# qb-inventory css edit
+Discord: https://discord.gg/6zxH7NdaTn
+Normal qb-inventory görüntüsü kötü olduğunu düşündüğüm için yeni bir css ve para ve karakter isim soyisim eklentisi yaptık 
+beğenirseniz iyi kullanımlar dileriz. 
+Discord adresimize katılarak sorununuz varsa sorunuza yardımcı olmaya çalışırız.
+---------------------------------------------------------------------------------
+Since I think the normal qb-inventory visual is bad, we made a new css and money and character name surname plugin, 
+if you like it, we wish you good use. If you have a problem, we will try to help you with your question by joining our Discord address.
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
