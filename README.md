@@ -1,4 +1,4 @@
-# qb-inventory css edit
+# qb-inventory redesign css edit
 Discord: https://discord.gg/6zxH7NdaTn
 Normal qb-inventory görüntüsü kötü olduğunu düşündüğüm için yeni bir css ve para ve karakter isim soyisim eklentisi yaptık 
 beğenirseniz iyi kullanımlar dileriz. 
