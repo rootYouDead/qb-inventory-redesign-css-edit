@@ -6,6 +6,9 @@ Discord adresimize katılarak sorununuz varsa sorunuza yardımcı olmaya çalı�
 ---------------------------------------------------------------------------------
 Since I think the normal qb-inventory visual is bad, we made a new css and money and character name surname plugin, 
 if you like it, we wish you good use. If you have a problem, we will try to help you with your question by joining our Discord address.
+## Screenshot
+![image](https://github.com/user-attachments/assets/ee75e80c-ca02-4db5-9039-5c6f7a5946e8)
+![image](https://github.com/user-attachments/assets/de12c3f1-0682-4355-a803-30344b507fc1)
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
